@@ -38,6 +38,7 @@ Setup Instructions
     Clone the repository:
 
 git clone https://github.com/maikhaled1732002/Weather_APP.git
+
 cd Weather_APP
 
 Install dependencies: Make sure Qt, CURL, and RapidJSON are installed on your system.
